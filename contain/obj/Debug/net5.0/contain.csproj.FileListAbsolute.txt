@@ -1,0 +1,15 @@
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/contain/bin/Debug/net5.0/contain.deps.json
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/contain/bin/Debug/net5.0/contain.runtimeconfig.json
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/contain/bin/Debug/net5.0/contain.runtimeconfig.dev.json
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/contain/bin/Debug/net5.0/contain.dll
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/contain/bin/Debug/net5.0/ref/contain.dll
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/contain/bin/Debug/net5.0/contain.pdb
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/contain/obj/Debug/net5.0/contain.csproj.AssemblyReference.cache
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/contain/obj/Debug/net5.0/contain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/contain/obj/Debug/net5.0/contain.AssemblyInfoInputs.cache
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/contain/obj/Debug/net5.0/contain.AssemblyInfo.cs
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/contain/obj/Debug/net5.0/contain.csproj.CoreCompileInputs.cache
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/contain/obj/Debug/net5.0/contain.dll
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/contain/obj/Debug/net5.0/ref/contain.dll
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/contain/obj/Debug/net5.0/contain.pdb
+/Users/eduardarodriguesdonascimento/projeto/1ano/semestre2/contain/obj/Debug/net5.0/contain.genruntimeconfig.cache
